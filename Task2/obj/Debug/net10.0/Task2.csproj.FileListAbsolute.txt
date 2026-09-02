@@ -1,0 +1,15 @@
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/bin/Debug/net10.0/Task2
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/bin/Debug/net10.0/Task2.deps.json
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/bin/Debug/net10.0/Task2.runtimeconfig.json
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/bin/Debug/net10.0/Task2.dll
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/bin/Debug/net10.0/Task2.pdb
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.AssemblyInfoInputs.cache
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.AssemblyInfo.cs
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.csproj.CoreCompileInputs.cache
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.sourcelink.json
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.dll
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/refint/Task2.dll
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.pdb
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/Task2.genruntimeconfig.cache
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task2/obj/Debug/net10.0/ref/Task2.dll
