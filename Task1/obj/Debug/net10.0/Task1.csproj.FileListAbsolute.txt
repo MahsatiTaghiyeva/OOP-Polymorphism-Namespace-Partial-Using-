@@ -12,3 +12,4 @@
 /home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task1/obj/Debug/net10.0/Task1.pdb
 /home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task1/obj/Debug/net10.0/Task1.genruntimeconfig.cache
 /home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task1/obj/Debug/net10.0/ref/Task1.dll
+/home/hp/OOP-Polymorphism-Namespace-Partial-Using-/Task1/obj/Debug/net10.0/Task1.sourcelink.json

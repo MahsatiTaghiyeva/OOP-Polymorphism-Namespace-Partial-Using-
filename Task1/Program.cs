@@ -7,4 +7,6 @@ Console.WriteLine(order1.ToString());
 order1.ChangePrice(29, out diff);
 Console.WriteLine(diff);
 Console.WriteLine(order1.Price);
-System.Console.WriteLine();
+
+OnlineOrder onlineOrder = new OnlineOrder("1", "Kitab", 15, 2, 12);
+Console.WriteLine(onlineOrder);
