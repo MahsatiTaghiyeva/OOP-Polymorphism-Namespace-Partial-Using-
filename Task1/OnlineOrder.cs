@@ -4,6 +4,8 @@
     //Məhsulun sayı
     //Məhsulun qiyməti
     //Sifarişin məsafəsi
+using System.Text;
+
 public class OnlineOrder : Order
 {
     public double Distance {get; set;}
@@ -28,6 +30,17 @@ public class OnlineOrder : Order
     //Ümumi Məbləğ Çatdırılma ilə: 33 AZN
     public override string ToString()
     {
-        return $"Sifariş ID: {Id}, Məhsul: {Name}, Sayı: {Count}, Qiymət: {Price}, Ümumi Məbləğ: {TotalPrice()}, Məsafə: {Distance}, Çatıdırlma: {PriceDelivery()}, Ümumi Məbləğ Çatdırılma ilə: {TotalPrice()+PriceDelivery()}";
+        StringBuilder sb = new StringBuilder();
+
+        sb.AppendLine($"Sifariş ID: {Id}");
+        sb.AppendLine($"Məhsul: {Name}");
+        sb.AppendLine($"Sayı: {Count}");
+        sb.AppendLine($"Qiymət: {Price} AZN");
+        sb.AppendLine($"Ümumi Məbləğ: {TotalPrice()} AZN");
+        sb.AppendLine($"Məsafə: {Distance} Km");
+        sb.AppendLine($"Çatdırılma: {PriceDelivery()} AZN");
+        sb.AppendLine($"Ümumi Məbləğ Çatdırılma ilə: {TotalPrice() + PriceDelivery()} AZN");
+
+        return sb.ToString();
     }
 }
