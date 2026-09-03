@@ -10,8 +10,7 @@ namespace RestoranSimulyasiyasi
         public double Weight { get; set; }
         override public double CalcPrice()
         {
-            Weight /= 1000;
-            double price = Weight;
+            double price = Weight/1000;
             if(IsSalty)
             {
                 price += 0.8;
@@ -25,7 +24,7 @@ namespace RestoranSimulyasiyasi
         }
         public override string ToString()
         {
-            return $"Pizza: {Name}, Weight: {Weight}, IsSalty: {IsSalty}, Price: {CalcPrice()}";
+            return $"Fries: {Name}, Weight: {Weight}, IsSalty: {IsSalty}, Price: {CalcPrice()}";
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestoranSimulyasiyası")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b97b6a71f81f7b28fefeab5b67517ff216e6639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83dfdb1a461c069f5d995e1e88339f3b58027da9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestoranSimulyasiyası")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestoranSimulyasiyası")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
